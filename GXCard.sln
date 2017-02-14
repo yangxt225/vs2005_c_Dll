@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GXCard", "GXCard\GXCard.vcproj", "{F6DD159D-8A68-4024-81DC-399D54419924}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestGXCard", "TestGXCard\TestGXCard.vcproj", "{3FECD096-F1EC-4A33-84CB-0E931C98C4AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6DD159D-8A68-4024-81DC-399D54419924}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F6DD159D-8A68-4024-81DC-399D54419924}.Debug|Win32.Build.0 = Debug|Win32
+		{F6DD159D-8A68-4024-81DC-399D54419924}.Release|Win32.ActiveCfg = Release|Win32
+		{F6DD159D-8A68-4024-81DC-399D54419924}.Release|Win32.Build.0 = Release|Win32
+		{3FECD096-F1EC-4A33-84CB-0E931C98C4AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3FECD096-F1EC-4A33-84CB-0E931C98C4AF}.Debug|Win32.Build.0 = Debug|Win32
+		{3FECD096-F1EC-4A33-84CB-0E931C98C4AF}.Release|Win32.ActiveCfg = Release|Win32
+		{3FECD096-F1EC-4A33-84CB-0E931C98C4AF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
